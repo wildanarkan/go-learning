@@ -62,4 +62,4 @@ go run main.go
 
 ---
 
-⭐ Project Link: [https://github.com/username/go-crud-api](https://github.com/wildanarkan/go-learning.git)
+⭐ Project Link: [https://github.com/wildanarkan/go-learning](https://github.com/wildanarkan/go-learning.git)
